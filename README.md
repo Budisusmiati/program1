@@ -1,7 +1,7 @@
 # program1
 # Berikut Hasil program1 ketika di Run
 # menu add
-a9abdf00-29c9-11ea-9fbf-3c4b49210de0.png)
+![Screenshot (116)](https://user-images.githubusercontent.com/57002773/71546468-a9abdf00-29c9-11ea-9fbf-3c4b49210de0.png)
 # menu edit
 ![Screenshot (117)](https://user-images.githubusercontent.com/57002773/71546470-b3354700-29c9-11ea-82a5-cbbfca4e08d7.png)
 # menu Cari
